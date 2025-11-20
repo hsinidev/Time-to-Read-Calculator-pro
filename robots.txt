@@ -1,0 +1,7 @@
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://example.com/sitemap.xml
+# Note: Replace with the actual URL of your sitemap

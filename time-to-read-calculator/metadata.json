@@ -1,0 +1,5 @@
+{
+  "name": "Time to Read Calculator",
+  "description": "A modern, responsive tool to instantly calculate the estimated reading time for any block of text. Features a customizable Words Per Minute (WPM) setting and an animated galaxy background for an immersive experience.",
+  "requestFramePermissions": []
+}
