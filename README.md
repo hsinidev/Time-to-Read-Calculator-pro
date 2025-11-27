@@ -8,7 +8,7 @@
   <p align="center">
     The definitive tool for content creators to estimate reading time, analyze word counts, and optimize editorial workflows.
     <br />
-    <a href="https://timetoreadcalculator.doodax.com"><strong>🚀 Launch Live Demo</strong></a>
+    <a href="https://doodax.com/tools/time-to-read-calculator/index.html"><strong>🚀 Launch Live Demo</strong></a>
     <br />
     <br />
     <a href="https://github.com/hsinidev/time-to-read-calculator/issues">Report Bug</a>
